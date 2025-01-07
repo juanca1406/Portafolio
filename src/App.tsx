@@ -109,10 +109,10 @@ function App() {
             <h1 className="text-5xl font-bold">Juan Martinez</h1>
             <p className="text-lg mt-4">Soy un {cambio}</p>
             <br />
-            <button type="submit" className="block rounded-md bg-indigo-600 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm
+            <a href="#contactos"><button type="submit" className="block rounded-md bg-indigo-600 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm
               hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
               contactos
-            </button>
+            </button></a>
           </div>
         </div>
 
