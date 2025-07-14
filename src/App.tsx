@@ -32,7 +32,7 @@ function App() {
     {
       id: 1,
       categoria: "web",
-      titulo: "Sistemas Pos",
+      titulo: "Sistemas Pos (En proceso)",
       descripcion: "AxiomaPos es un sistema POS desarrollado de manera colaborativa junto con mi equipo. Este proyecto tiene como objetivo optimizar la gestión de ventas e inventarios en restaurantes, tiendas y hoteles. y una integración multiplataforma (web y Android).",
       git: "https://github.com/Organizacion-AxiomaGest/AxiomaPos",
       icon: <FaGithub size={36} />,
@@ -83,7 +83,7 @@ function App() {
             Inicio
           </a>
           <a href="#quien-soy" className="text-sm font-medium text-gray-900 hover:text-blue-500">
-            Quié  n soy
+            Quién soy
           </a>
           <a href="#portafolio" className="text-sm font-medium text-gray-900 hover:text-blue-500">
             Portafolio
@@ -106,7 +106,7 @@ function App() {
       <div id="inicio" className="ml-[20%] w-[80%] h-screen shadow-2xl border">
         <div className="bg-cover bg-center bg-[url('./assets/new113.jpg')] h-screen flex">
           <div className="ml-40 my-auto">
-            <h1 className="text-5xl font-bold">Juan Martinez</h1>
+            <h1 className="text-5xl font-bold">Juan Carlos Martinez M</h1>
             <p className="text-lg mt-4">Soy un {cambio}</p>
             <br />
             <a href="#contactos"><button type="submit" className="block rounded-md bg-indigo-600 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm
@@ -121,7 +121,7 @@ function App() {
           <div className="p-8 bg-white shadow-xl rounded-xl">
             <h2 className="text-3xl font-bold">¿Quién soy?</h2>
             <p className="mt-4 text-gray-600">
-              soy Técnico en Análisis de Software y estudiante de Tecnología en Desarrollo de Software (5° semestre). He desarrollado proyectos personales y colaborativos utilizando Django, React y React Native, aplicando metodologías ágiles como Scrum.
+              soy Técnico en Análisis de Software y estudiante de Tecnología en Desarrollo de Software (6° semestre). He desarrollado proyectos personales y colaborativos utilizando Django, React y React Native, aplicando metodologías ágiles como Scrum.
               Trabajo regularmente con Git y despliego APIs en Railway. Mi experiencia incluye diseño de interfaces, creación de CRUDs y consumo de APIs tanto en aplicaciones web como móviles. Estoy comprometido con el aprendizaje continuo y la creación de soluciones prácticas e innovadoras.
             </p>
             <br /><br />
