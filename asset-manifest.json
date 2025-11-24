@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Portafolio/static/css/main.1378d7b0.css",
-    "main.js": "/Portafolio/static/js/main.01f7b603.js",
+    "main.js": "/Portafolio/static/js/main.6b4f11c7.js",
     "static/js/453.7d1ffe6d.chunk.js": "/Portafolio/static/js/453.7d1ffe6d.chunk.js",
     "static/media/micro.png": "/Portafolio/static/media/micro.d323c94c690d9ce9e44c.png",
-    "static/media/certificado1.jpg": "/Portafolio/static/media/certificado1.888dd071913e6a223608.jpg",
+    "static/media/celu.png": "/Portafolio/static/media/celu.a467c28222a03aebccfa.png",
     "static/media/certificado2.jpg": "/Portafolio/static/media/certificado2.888dd071913e6a223608.jpg",
+    "static/media/certificado1.jpg": "/Portafolio/static/media/certificado1.fd0479951225ee6220fd.jpg",
     "static/media/aplicacion.jpg": "/Portafolio/static/media/aplicacion.580c008ca0469d4dd936.jpg",
     "static/media/dashboard.png": "/Portafolio/static/media/dashboard.ddd666dce76e0e9287ce.png",
-    "static/media/celu.png": "/Portafolio/static/media/celu.a50d74ed2005c928c37f.png",
     "index.html": "/Portafolio/index.html",
     "main.1378d7b0.css.map": "/Portafolio/static/css/main.1378d7b0.css.map",
-    "main.01f7b603.js.map": "/Portafolio/static/js/main.01f7b603.js.map",
+    "main.6b4f11c7.js.map": "/Portafolio/static/js/main.6b4f11c7.js.map",
     "453.7d1ffe6d.chunk.js.map": "/Portafolio/static/js/453.7d1ffe6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1378d7b0.css",
-    "static/js/main.01f7b603.js"
+    "static/js/main.6b4f11c7.js"
   ]
 }
